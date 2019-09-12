@@ -1,4 +1,3 @@
-# rasa
 # Install
 Cài đặt model spacy tiếng việt
 ```
