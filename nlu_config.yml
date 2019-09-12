@@ -1,0 +1,18 @@
+language: "vi_spacy_model"
+
+pipeline:
+  - name: "nlp_spacy"  # spacy v2.0
+  - name: "custom_code.tokenizer.ViTokenizer"
+  - name: "intent_entity_featurizer_regex"
+  - name: "ner_synonyms"
+  - name: "ner_spacy"
+  - name: "ner_crf"
+  #    features: [["low", "title", "upper", "pos", "pos2"], ["bias", "low", "prefix5", "prefix2", "suffix5", "suffix3", "suffix2", "upper", "title", "digit", "pos", "pos2", "pattern"], ["low", "title", "upper", "pos", "pos2"]]
+  - name: "intent_featurizer_spacy"
+  - name: "custom_code.featurizer.TfidfFeaturizer"
+  - name: "intent_classifier_sklearn"
+  - name: "intent_classifier_tensorflow_embedding"
+    hidden_layers_sizes_a: [1024, 512, 1024, 1024,512]
+    epochs: 200
+    embed_dim: 512
+    droprate: 0.2

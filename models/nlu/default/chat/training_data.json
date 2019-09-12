@@ -1,0 +1,1521 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "cam_on",
+        "text": "ukm"
+      },
+      {
+        "intent": "cam_on",
+        "text": "bạn giỏi thật"
+      },
+      {
+        "intent": "cam_on",
+        "text": "thank em nhiều"
+      },
+      {
+        "intent": "cam_on",
+        "text": "thông tin hữu ích"
+      },
+      {
+        "intent": "cam_on",
+        "text": "that's fine"
+      },
+      {
+        "intent": "cam_on",
+        "text": "giỏi lắm em"
+      },
+      {
+        "intent": "cam_on",
+        "text": "ok. cảm ơn"
+      },
+      {
+        "intent": "cam_on",
+        "text": "um"
+      },
+      {
+        "intent": "cam_on",
+        "text": "uk"
+      },
+      {
+        "intent": "cam_on",
+        "text": "cảm ơn bot nhé"
+      },
+      {
+        "intent": "cam_on",
+        "text": "cám ơn"
+      },
+      {
+        "intent": "cam_on",
+        "text": "tuyệt"
+      },
+      {
+        "intent": "cam_on",
+        "text": "siêu"
+      },
+      {
+        "intent": "cam_on",
+        "text": "hay"
+      },
+      {
+        "intent": "cam_on",
+        "text": "chuẩn"
+      },
+      {
+        "intent": "cam_on",
+        "text": "thank you a lot"
+      },
+      {
+        "intent": "cam_on",
+        "text": "thank you so much"
+      },
+      {
+        "intent": "cam_on",
+        "text": "ok cảm ơn"
+      },
+      {
+        "intent": "cam_on",
+        "text": "tôi hiểu rồi"
+      },
+      {
+        "intent": "cam_on",
+        "text": "cảm ơn nhiều"
+      },
+      {
+        "intent": "cam_on",
+        "text": "cảm ơn"
+      },
+      {
+        "intent": "cam_on",
+        "text": "tks"
+      },
+      {
+        "intent": "cam_on",
+        "text": "cảm ơn em"
+      },
+      {
+        "intent": "cam_on",
+        "text": "thank you"
+      },
+      {
+        "intent": "cam_on",
+        "text": "thank"
+      },
+      {
+        "intent": "cam_on",
+        "text": "thanks"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "cho mình hỏi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "cho em hỏi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "người yêu ơi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "em yêu ơi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "tôi cần tư vấn"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "tôi cần giúp"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "tôi muốn hỏi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "ê cu"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào bạn"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "có ai ở đây không"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "hi there"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "hello em"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "hi em"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "còn sống không"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chết chưa"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "đâu rồi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "em à"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "em ơi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào em"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "rất vui được làm quen với em"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "xin chào"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào bot"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "alo"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào chú"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào buổi tối"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào buổi trưa"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào buổi sáng"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào mày"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "chào"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "what's up"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "hey"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "hi"
+      },
+      {
+        "intent": "chaohoi1",
+        "text": "hello"
+      },
+      {
+        "intent": "chaohoi2",
+        "text": "hân hạnh gặp em"
+      },
+      {
+        "intent": "chaohoi2",
+        "text": "rất vui được gặp em"
+      },
+      {
+        "intent": "chaohoi2",
+        "text": "chào em dạo này em thế nào"
+      },
+      {
+        "intent": "chaohoi2",
+        "text": "lâu rồi không gặp em"
+      },
+      {
+        "intent": "chaohoi2",
+        "text": "rất vui được làm quen với em"
+      },
+      {
+        "intent": "che1",
+        "text": "lừa anh hả"
+      },
+      {
+        "intent": "che1",
+        "text": "lừa nhau hả"
+      },
+      {
+        "intent": "che1",
+        "text": "ngu"
+      },
+      {
+        "intent": "che1",
+        "text": "ngu như chó"
+      },
+      {
+        "intent": "che1",
+        "text": "chó"
+      },
+      {
+        "intent": "che1",
+        "text": "em là đồ khốn"
+      },
+      {
+        "intent": "che1",
+        "text": "đồ khốn"
+      },
+      {
+        "intent": "che1",
+        "text": "sao em ngu thế"
+      },
+      {
+        "intent": "che1",
+        "text": "em thật lắm điều"
+      },
+      {
+        "intent": "che1",
+        "text": "con chó"
+      },
+      {
+        "intent": "che1",
+        "text": "con đĩ này"
+      },
+      {
+        "intent": "che1",
+        "text": "im mồm"
+      },
+      {
+        "intent": "che1",
+        "text": "em im mồm đi"
+      },
+      {
+        "intent": "che1",
+        "text": "đáng ghét"
+      },
+      {
+        "intent": "che1",
+        "text": "tôi ghét em"
+      },
+      {
+        "intent": "che1",
+        "text": "đĩ thế"
+      },
+      {
+        "intent": "che1",
+        "text": "tởm đấy"
+      },
+      {
+        "intent": "che1",
+        "text": "mẹ mày"
+      },
+      {
+        "intent": "che1",
+        "text": "tiên sư mày"
+      },
+      {
+        "intent": "che1",
+        "text": "sư mày"
+      },
+      {
+        "intent": "che1",
+        "text": "bố mày"
+      },
+      {
+        "intent": "che1",
+        "text": "fuck you"
+      },
+      {
+        "intent": "che1",
+        "text": "đồ củ chuối"
+      },
+      {
+        "intent": "che1",
+        "text": "đồ củ khoai"
+      },
+      {
+        "intent": "che1",
+        "text": "đồ đần"
+      },
+      {
+        "intent": "che1",
+        "text": "bị thần kinh à"
+      },
+      {
+        "intent": "che1",
+        "text": "thần kinh à"
+      },
+      {
+        "intent": "che1",
+        "text": "đồ tồi"
+      },
+      {
+        "intent": "che1",
+        "text": "đồ dở hơi"
+      },
+      {
+        "intent": "che1",
+        "text": "dở hơi à"
+      },
+      {
+        "intent": "che1",
+        "text": "hâm à"
+      },
+      {
+        "intent": "che1",
+        "text": "đồ vớ vẩn"
+      },
+      {
+        "intent": "che1",
+        "text": "ngu lắm"
+      },
+      {
+        "intent": "che1",
+        "text": "bị điên à"
+      },
+      {
+        "intent": "che1",
+        "text": "điên à"
+      },
+      {
+        "intent": "che1",
+        "text": "mày ngu thế"
+      },
+      {
+        "intent": "che1",
+        "text": "mày dở hơi à"
+      },
+      {
+        "intent": "che1",
+        "text": "em xấu thế"
+      },
+      {
+        "intent": "che1",
+        "text": "em ngốc thế"
+      },
+      {
+        "intent": "che1",
+        "text": "sao em ngốc thế"
+      },
+      {
+        "intent": "che1",
+        "text": "dốt quá"
+      },
+      {
+        "intent": "che1",
+        "text": "em dốt thế"
+      },
+      {
+        "intent": "che1",
+        "text": "con cờ hó"
+      },
+      {
+        "intent": "che2",
+        "text": "đi chỗ khác chơi"
+      },
+      {
+        "intent": "che2",
+        "text": "cuốn xéo"
+      },
+      {
+        "intent": "che2",
+        "text": "phắn"
+      },
+      {
+        "intent": "che2",
+        "text": "cút đi"
+      },
+      {
+        "intent": "che2",
+        "text": "biến đi"
+      },
+      {
+        "intent": "che3",
+        "text": "phét"
+      },
+      {
+        "intent": "che3",
+        "text": "điêu"
+      },
+      {
+        "intent": "che3",
+        "text": "chém gió"
+      },
+      {
+        "intent": "che4",
+        "text": "nói lẹ lên"
+      },
+      {
+        "intent": "che4",
+        "text": "nói nhanh lên"
+      },
+      {
+        "intent": "che4",
+        "text": "nói chậm thế"
+      },
+      {
+        "intent": "che4",
+        "text": "sao em nói chậm thế"
+      },
+      {
+        "intent": "che4",
+        "text": "sao nói chậm thế"
+      },
+      {
+        "intent": "hat_ho",
+        "text": "hát bài nào đi"
+      },
+      {
+        "intent": "hat_ho",
+        "text": "hát đi em"
+      },
+      {
+        "intent": "hat_ho",
+        "text": "em biết hát bài gì"
+      },
+      {
+        "intent": "hat_ho",
+        "text": "em hát hay không"
+      },
+      {
+        "intent": "hat_ho",
+        "text": "em có biết hát không"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "việc gì em giỏi nhất"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em làm việc gì tốt nhất"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em làm việc gì giỏi nhất"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "giúp được gì hả"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "có làm được trò gì không"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em giúp được gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em biết làm gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "chẳng biết em làm được gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em có ích trong việc gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "bạn hữu dụng như thế nào"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "cho mình biết bạn có thể làm gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "kể xem bạn có thể làm gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em giỏi nhất trong việc gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "chức năng của em là gì"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em giúp được gì nào"
+      },
+      {
+        "intent": "hoi_chuc_nang",
+        "text": "em có thể làm gì"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "đọc số điện thoại đi em"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "em dùng điện thoại không"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "làm sao để liên lạc với em"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "anh liên hệ với em kiểu gì"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "anh xin số điện thoại"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "cho anh số điện thoại"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "số điện thoại"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "anh liên hệ với em như thế nào"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "cho anh số điện thoại đi"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "số điện thoại của em là gì"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "em cho anh số điện thoại được không"
+      },
+      {
+        "intent": "hoi_contact1",
+        "text": "điện thoại của em là gì"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "em có tài khoản facebook không"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "facebook của em là gì"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "em có dùng facebook không"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "cho anh zalo của em đi"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "em có tài khoản zalo không"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "zalo của em là gì"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "em có dùng zalo không"
+      },
+      {
+        "intent": "hoi_contact2",
+        "text": "em có dùng skype không"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "Em đang sống ở đâu"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "nhà em cách đây bao xa"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "nhà em gần đây không"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "em có ở hà nội không"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "em ở chỗ nào"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "quê em ở đâu"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "em đang ở đâu"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "em ở đâu"
+      },
+      {
+        "intent": "hoi_dia_chi1",
+        "text": "mày đang đâu"
+      },
+      {
+        "intent": "hoi_dia_chi2",
+        "text": "anh có thể gặp em ở đâu"
+      },
+      {
+        "intent": "hoi_dia_chi2",
+        "text": "địa chỉ công ty em ở đâu"
+      },
+      {
+        "intent": "hoi_dia_chi2",
+        "text": "công ty em ở đâu"
+      },
+      {
+        "intent": "hoi_dia_chi2",
+        "text": "anh xin địa chỉ nhà em"
+      },
+      {
+        "intent": "hoi_dia_chi2",
+        "text": "địa chỉ nhà em"
+      },
+      {
+        "intent": "hoi_dia_chi2",
+        "text": "địa chỉ nhà em là gì"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "con nhà ai thế"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "em còn độc thân hay đã có gia đình"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "em có chị gái không"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "em có anh trai không"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "nhà em có mấy người"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "em là con thứ mấy trong gia đình"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "gia đình em có mấy người"
+      },
+      {
+        "intent": "hoi_gia_dinh1",
+        "text": "em là con một à"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "yêu bao giờ chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "biết yêu chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "em đã yêu ai chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "có mấy người rồi"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "có bồ chưa em"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "có bạn trai chưa em"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "yêu ai chưa em"
+      },
+      {
+        "intent": "hoi_gia_dinh2",
+        "text": "em có người yêu chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh3",
+        "text": "cưới vợ chưa em"
+      },
+      {
+        "intent": "hoi_gia_dinh3",
+        "text": "lấy vợ chưa em"
+      },
+      {
+        "intent": "hoi_gia_dinh3",
+        "text": "em muốn lấy vợ chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh3",
+        "text": "em muốn lấy vợ không"
+      },
+      {
+        "intent": "hoi_gia_dinh3",
+        "text": "em lấy vợ chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh3",
+        "text": "em có vợ chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh4",
+        "text": "đã lấy chồng chưa em"
+      },
+      {
+        "intent": "hoi_gia_dinh4",
+        "text": "chồng con gì chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh4",
+        "text": "lấy chồng chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh4",
+        "text": "cưới chồng chưa"
+      },
+      {
+        "intent": "hoi_gia_dinh4",
+        "text": "em có chồng chưa"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "giới tính"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "giới tính thật của em là gì"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em là nữ à"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em giới tính gì"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em có  giới tính không"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em là đàn ông hay đàn bà"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em là con trai hay con giá"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em là trai hay gái"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em là nam hay nữ"
+      },
+      {
+        "intent": "hoi_gioi_tinh",
+        "text": "em là nam hay nữ"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "buồn cười"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "nực cười"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "hehe"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "haha"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "hihi"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "ha ha"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "he he"
+      },
+      {
+        "intent": "hoi_linh_tinh.cười",
+        "text": "hi hi"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "khóc rồi"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "rơi lệ"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "chảy nước mắt"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "hai dòng nước mắt"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "mếu máo"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "hu hu"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "ahuhu"
+      },
+      {
+        "intent": "hoi_linh_tinh.khoc",
+        "text": "huhu"
+      },
+      {
+        "intent": "hoi_nghe_nghiep",
+        "text": "em làm ở đây lâu chưa"
+      },
+      {
+        "intent": "hoi_nghe_nghiep",
+        "text": "việc của em là gì"
+      },
+      {
+        "intent": "hoi_nghe_nghiep",
+        "text": "nghề nghiệp của em là gì"
+      },
+      {
+        "intent": "hoi_nghe_nghiep",
+        "text": "em đang làm gì đấy"
+      },
+      {
+        "intent": "hoi_nghe_nghiep",
+        "text": "em làm nghề gì"
+      },
+      {
+        "intent": "hoi_nghe_nghiep",
+        "text": "em làm gì ở đây"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "nói nhiều có mệt không em"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "mệt không em"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "em thấy ốm à"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "ốm à"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "mệt không hả"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "làm việc mệt không em"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "sức khỏe thế nào"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "khỏe chứ"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "ổn chứ"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "hôm nay vui không"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "em khỏe khô"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "hôm nay em thấy thế nào"
+      },
+      {
+        "intent": "hoi_suc_khoe",
+        "text": "hôm nay mày thế nào"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "ai đặt tên em vậy"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "tên em là gì"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "em tên gì"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "ai đấy"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "em là gì vậy"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "anh chưa biết em là ai"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "em là ai đấy"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "em là đứa nào"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "em tên là gì"
+      },
+      {
+        "intent": "hoi_ten_bot",
+        "text": "em là ai"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "trưa chưa em"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "sáng chưa em"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "tối chưa em"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "mấy giờ rồi thế"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "em ơi mấy giờ rồi"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "mấy giờ vậy"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "cho hỏi bây giờ là mấy giờ"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "mấy giờ rồi em ơi"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "sắp 10 giờ chưa"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "sắp 3 giờ chưa"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "sắp khuya chưa em"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "mấy giờ rồi"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "bây giờ là mấy giờ"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "sắp chiều chưa"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "sắp đến tối chưa"
+      },
+      {
+        "intent": "hoi_thoi_gian.hỏi giờ",
+        "text": "sắp đến trưa chưa em"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "hôm nay là ngày mấy hả"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "hôm nay dương bao nhiêu"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "dương hôm nay bao nhiêu vậy"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "hôm nay là bao giờ"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "hôm là là ngày bao nhiêu hả em"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "ngày mấy rồi nhỉ"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "hôm nay ngày mấy"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày bao nhiêu",
+        "text": "ngày bao nhiêu rồi em"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày trong tuần",
+        "text": "hôm nay là thứ mấy em nhỉ"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày trong tuần",
+        "text": "em ơi thứ mấy rồi"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày trong tuần",
+        "text": "hôm nay là thứ mấy"
+      },
+      {
+        "intent": "hoi_thoi_gian.ngày trong tuần",
+        "text": "thứ mấy rồi"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "em 20 tuổi chưa"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "thế mày bao nhiêu tuổi"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "tuổi con gì thế"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "năm nay em bao nhiêu tuổi"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "mày mấy tuổi"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "em nhiều tuổi chưa"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "em bao tuổi"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "em bao nhiêu tuổi"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "em sinh ngày bao nhiêu"
+      },
+      {
+        "intent": "hoi_tuoi_bot1",
+        "text": "em sinh ngày nào"
+      },
+      {
+        "intent": "hoi_tuoi_bot2",
+        "text": "sinh năm bao nhiêu"
+      },
+      {
+        "intent": "hoi_tuoi_bot2",
+        "text": "sinh năm nào vậy em"
+      },
+      {
+        "intent": "hoi_tuoi_bot2",
+        "text": "mày sinh năm nào"
+      },
+      {
+        "intent": "hoi_tuoi_bot2",
+        "text": "em sinh năm nào"
+      },
+      {
+        "intent": "hoi_tuoi_bot2",
+        "text": "em sinh năm bao nhiêu"
+      },
+      {
+        "intent": "khen",
+        "text": "ok đấy"
+      },
+      {
+        "intent": "khen",
+        "text": "quá siêu"
+      },
+      {
+        "intent": "khen",
+        "text": "sexy thế"
+      },
+      {
+        "intent": "khen",
+        "text": "duyên thế"
+      },
+      {
+        "intent": "khen",
+        "text": "đẹp thế nhỉ"
+      },
+      {
+        "intent": "khen",
+        "text": "em thật tử tế"
+      },
+      {
+        "intent": "khen",
+        "text": "em chu đáo quá"
+      },
+      {
+        "intent": "khen",
+        "text": "khá quá nhỉ"
+      },
+      {
+        "intent": "khen",
+        "text": "khá đấy"
+      },
+      {
+        "intent": "khen",
+        "text": "hơi bị kinh đấy"
+      },
+      {
+        "intent": "khen",
+        "text": "rất smart"
+      },
+      {
+        "intent": "khen",
+        "text": "very good"
+      },
+      {
+        "intent": "khen",
+        "text": "rất ok"
+      },
+      {
+        "intent": "khen",
+        "text": "rất thu hút"
+      },
+      {
+        "intent": "khen",
+        "text": "rất hấp dẫn"
+      },
+      {
+        "intent": "khen",
+        "text": "rất lôi cuốn"
+      },
+      {
+        "intent": "khen",
+        "text": "tuyệt cú mèo"
+      },
+      {
+        "intent": "khen",
+        "text": "em siêu thế"
+      },
+      {
+        "intent": "khen",
+        "text": "em thông minh thế"
+      },
+      {
+        "intent": "khen",
+        "text": "sao em không thế"
+      },
+      {
+        "intent": "khen",
+        "text": "hay dữ"
+      },
+      {
+        "intent": "khen",
+        "text": "giỏi ghê"
+      },
+      {
+        "intent": "khen",
+        "text": "rất dễ thương"
+      },
+      {
+        "intent": "khen",
+        "text": "thông minh đấy"
+      },
+      {
+        "intent": "khen",
+        "text": "giỏi quá"
+      },
+      {
+        "intent": "khen",
+        "text": "xinh quá"
+      },
+      {
+        "intent": "khen",
+        "text": "dễ thương nhỉ"
+      },
+      {
+        "intent": "khen",
+        "text": "em thật tuyệt vời"
+      },
+      {
+        "intent": "khen",
+        "text": "thật đáng yêu quá"
+      },
+      {
+        "intent": "khen",
+        "text": "rất thú vị"
+      },
+      {
+        "intent": "khen",
+        "text": "em rất thú vị"
+      },
+      {
+        "intent": "khen",
+        "text": "rất hay"
+      },
+      {
+        "intent": "khen",
+        "text": "em đáng yêu quá"
+      },
+      {
+        "intent": "khen",
+        "text": "em được đó"
+      },
+      {
+        "intent": "khen",
+        "text": "em ngoan quá"
+      },
+      {
+        "intent": "khen",
+        "text": "em dễ thương"
+      },
+      {
+        "intent": "khen",
+        "text": "em xinh quá"
+      },
+      {
+        "intent": "khen",
+        "text": "em rất xinh"
+      },
+      {
+        "intent": "khen",
+        "text": "em tuyệt vời lắm"
+      },
+      {
+        "intent": "khen",
+        "text": "có ai khen em xinh chưa"
+      },
+      {
+        "intent": "khen",
+        "text": "em thấy em xinh gái không"
+      },
+      {
+        "intent": "khen",
+        "text": "em đẹp lắm"
+      },
+      {
+        "intent": "khen",
+        "text": "em xinh lắm"
+      },
+      {
+        "intent": "khen",
+        "text": "nói chuyện hay"
+      },
+      {
+        "intent": "khuyet_diem",
+        "text": "em làm việc gì ngu nhất"
+      },
+      {
+        "intent": "khuyet_diem",
+        "text": "việc gì em làm kém nhất"
+      },
+      {
+        "intent": "khuyet_diem",
+        "text": "em làm việc gì tệ nhất"
+      },
+      {
+        "intent": "khuyet_diem",
+        "text": "em dở nhất trong việc gì"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "mình phải đi rồi"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "ok bye"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "thôi chào"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "mình dừng ở đây thôi nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "thế thôi nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "nghỉ đi"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "đi đi"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "xéo"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "cút"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "biến"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "tạm biệt em nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "anh đi đây"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "lần khác nói tiếp"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "hẹn dịp khác nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "gặp lại sau nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "hẹn gặp lại nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "rất vui khi gặp em"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "rất vui khi được nói chuyện với em"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "hẹn gặp lại em lần khác"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "bai em nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "bye em nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "goodbye em"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "goodbye"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "tạm biệt"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "tạm biệt nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "tạm biệt em"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "bye bye"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "bai bai"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "bye"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

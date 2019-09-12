@@ -1,0 +1,13 @@
+{
+  "pro": "professional",
+  "tiêu_chuẩn": "professional",
+  "cơ_bản": "standard",
+  "phổ_thông": "standard",
+  "cao_cấp": "enterprise",
+  "hoàn_chỉnh": "enterprise",
+  "thương_mại": "standard",
+  "dịch_vụ": "standard",
+  "thương_mại / dịch_vụ": "standard",
+  "sản_xuất": "professional",
+  "xây_dựng": "enterprise"
+}

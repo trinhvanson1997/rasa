@@ -1,0 +1,151 @@
+{
+    "language": "vi_spacy_model",
+    "pipeline": [
+        {
+            "model": "vi_spacy_model",
+            "case_sensitive": false,
+            "name": "SpacyNLP",
+            "class": "rasa_nlu.utils.spacy_utils.SpacyNLP"
+        },
+        {
+            "correct_mapping": "word_mapping.json",
+            "lowercase": true,
+            "replace_tokens": false,
+            "use_punctuation": false,
+            "name": "ViTokenizer",
+            "class": "custom_code.tokenizer.ViTokenizer"
+        },
+        {
+            "name": "RegexFeaturizer",
+            "file": "component_2_RegexFeaturizer.pkl",
+            "class": "rasa_nlu.featurizers.regex_featurizer.RegexFeaturizer"
+        },
+        {
+            "name": "EntitySynonymMapper",
+            "file": null,
+            "class": "rasa_nlu.extractors.entity_synonyms.EntitySynonymMapper"
+        },
+        {
+            "dimensions": null,
+            "name": "SpacyEntityExtractor",
+            "class": "rasa_nlu.extractors.spacy_entity_extractor.SpacyEntityExtractor"
+        },
+        {
+            "BILOU_flag": true,
+            "features": [
+                [
+                    "low",
+                    "title",
+                    "upper"
+                ],
+                [
+                    "bias",
+                    "low",
+                    "prefix5",
+                    "prefix2",
+                    "suffix5",
+                    "suffix3",
+                    "suffix2",
+                    "upper",
+                    "title",
+                    "digit",
+                    "pattern"
+                ],
+                [
+                    "low",
+                    "title",
+                    "upper"
+                ]
+            ],
+            "max_iterations": 50,
+            "L1_c": 0.1,
+            "L2_c": 0.1,
+            "name": "CRFEntityExtractor",
+            "file": "component_5_CRFEntityExtractor.pkl",
+            "class": "rasa_nlu.extractors.crf_entity_extractor.CRFEntityExtractor"
+        },
+        {
+            "name": "SpacyFeaturizer",
+            "class": "rasa_nlu.featurizers.spacy_featurizer.SpacyFeaturizer"
+        },
+        {
+            "strip_accents": null,
+            "lowercase": true,
+            "analyzer": "word",
+            "stop_words": null,
+            "token_pattern": "\\w+",
+            "min_ngram": 1,
+            "max_ngram": 2,
+            "min_df": 3,
+            "max_df": 0.8,
+            "max_features": null,
+            "vocabulary": null,
+            "binary": false,
+            "norm": "l2",
+            "use_idf": true,
+            "smooth_idf": true,
+            "sublinear_tf": true,
+            "oov_token": null,
+            "oov_words": [],
+            "name": "TfidfFeaturizer",
+            "file": "TfidfFeaturizer.pkl",
+            "class": "custom_code.featurizer.TfidfFeaturizer"
+        },
+        {
+            "C": [
+                1,
+                2,
+                5,
+                10,
+                20,
+                100
+            ],
+            "gamma": [
+                0.1
+            ],
+            "kernels": [
+                "linear"
+            ],
+            "max_cross_validation_folds": 5,
+            "scoring_function": "f1_weighted",
+            "name": "SklearnIntentClassifier",
+            "file": "component_8_SklearnIntentClassifier.pkl",
+            "class": "rasa_nlu.classifiers.sklearn_intent_classifier.SklearnIntentClassifier"
+        },
+        {
+            "hidden_layers_sizes_a": [
+                1024,
+                512,
+                1024,
+                1024,
+                512
+            ],
+            "hidden_layers_sizes_b": [],
+            "batch_size": [
+                64,
+                256
+            ],
+            "epochs": 200,
+            "embed_dim": 512,
+            "mu_pos": 0.8,
+            "mu_neg": -0.4,
+            "similarity_type": "cosine",
+            "num_neg": 20,
+            "use_max_sim_neg": true,
+            "random_seed": null,
+            "C2": 0.002,
+            "C_emb": 0.8,
+            "droprate": 0.2,
+            "intent_tokenization_flag": false,
+            "intent_split_symbol": "_",
+            "evaluate_every_num_epochs": 10,
+            "evaluate_on_num_examples": 1000,
+            "name": "EmbeddingIntentClassifier",
+            "file": "component_9_EmbeddingIntentClassifier",
+            "class": "rasa_nlu.classifiers.embedding_intent_classifier.EmbeddingIntentClassifier"
+        }
+    ],
+    "training_data": "training_data.json",
+    "trained_at": "20190912-162456",
+    "rasa_nlu_version": "0.15.1"
+}

@@ -1,0 +1,17 @@
+{
+  "greet": "chào hỏi",
+  "goodbye": "tạm biệt",
+  "affirm": "đồng ý",
+  "deny": "từ chối",
+  "out_of_scope": "trò chuyện",
+  "inform": "thông báo",
+  "change_product": "thay đổi sản phẩm",
+  "buy": "mua ngay",
+  "ask_price": "hỏi về giá",
+  "ask_extended_price": "hỏi về phụ phí",
+  "ask_trial": "hỏi về dùng thử",
+  "ask_sales": "hỏi về chương trình khuyến mãi",
+  "ask_training": "hỏi về chương trình đào tạo",
+  "complain_price": "thắc mắc về giá",
+  "list_products": "xem danh sách các sản phẩm"
+}
