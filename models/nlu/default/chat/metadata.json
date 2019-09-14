@@ -1,8 +1,8 @@
 {
-    "language": "vi_spacy_model",
+    "language": "vi_fasttext",
     "pipeline": [
         {
-            "model": "vi_spacy_model",
+            "model": "vi_fasttext",
             "case_sensitive": false,
             "name": "SpacyNLP",
             "class": "rasa_nlu.utils.spacy_utils.SpacyNLP"
@@ -146,6 +146,6 @@
         }
     ],
     "training_data": "training_data.json",
-    "trained_at": "20190912-162456",
+    "trained_at": "20190914-081425",
     "rasa_nlu_version": "0.15.1"
 }

@@ -33,7 +33,7 @@ class Token(object):
 class ViTokenizer(Component):  # neednt persist
     provides = ["tokens"]
 
-    language_list = ["vi", "vi_spacy_model"]
+    language_list = ["vi", "vi_spacy_model", "vi_fasttext"]
 
     defaults = {
         "correct_mapping": "word_mapping.json",

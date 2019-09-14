@@ -1,4 +1,5 @@
-language: "vi_spacy_model"
+#language: "vi_spacy_model"
+language: "vi_fasttext"
 
 pipeline:
   - name: "nlp_spacy"  # spacy v2.0
