@@ -1,4 +1,9 @@
 # Install
+Các thư viện:
+```
+sudo pip3 instlall -r requirements.text
+```
+
 Cài đặt model spacy tiếng việt
 ```
 1. sudo pip3 install spacy
