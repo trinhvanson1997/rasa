@@ -1,3 +1,4 @@
 rasa_nlu==0.15.0
 tensorflow==1.14
 pyvi
+spacy
