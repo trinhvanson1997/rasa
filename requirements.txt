@@ -2,3 +2,6 @@ rasa_nlu==0.15.0
 tensorflow==1.14
 pyvi
 spacy
+underthesea
+rasa_nlu==0.15.0
+rasa_core==0.14.0
