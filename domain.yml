@@ -1,0 +1,98 @@
+intents:
+  - cam_on
+  - chaohoi1
+  - chaohoi2
+  - che1
+  - che2
+  - che3
+  - che4
+  - hat_ho
+  - hoi_chuc_nang
+  - hoi_contact1
+  - hoi_contact2
+  - hoi_dia_chi1
+  - hoi_dia_chi2
+  - hoi_gia_dinh1
+  - hoi_gia_dinh2
+  - hoi_gia_dinh3
+  - hoi_gia_dinh4
+  - hoi_gioi_tinh
+  - hoi_linh_tinh.cười
+  - hoi_linh_tinh.khoc
+  - hoi_nghe_nghiep
+  - hoi_suc_khoe
+  - hoi_ten_bot
+  - hoi_thoi_gian.hỏi_giờ
+  - hoi_thoi_gian.ngày_bao_nhiêu
+  - hoi_thoi_gian.ngày_trong_tuần
+  - hoi_tuoi_bot1
+  - hoi_tuoi_bot2
+  - khen
+  - khuyet_diem
+  - tam_biet
+  - hoi_truong_hoc
+
+actions:
+  - utter_unclear
+  - utter_thankyou
+  - utter_greet1
+  - utter_greet2
+  - utter_complain1
+  - utter_complain2
+  - utter_complain3
+  - utter_complain4
+  - utter_sing
+  - utter_function
+  - utter_contact1
+  - utter_contact2
+  - utter_address1
+  - utter_address2
+  - utter_family1
+  - utter_family2
+  - utter_family3
+  - utter_family4
+  - utter_gender
+  - utter_smile
+  - utter_cry
+  - utter_job
+  - utter_health
+  - utter_bot_name
+  - utter_time
+  - utter_datetime
+  - utter_day_in_week
+  - utter_bot_age1
+  - utter_bot_age2
+  - utter_compliment
+  - utter_weakness
+  - utter_bye
+  - utter_school
+
+templates:
+  utter_unclear:
+    - text: "Em chưa hiểu ý của anh/chị ạ"
+  utter_thankyou:
+    - text: "Dạ không có gì ạ"
+  utter_greet1:
+    - text: "Em có thể giúp gì cho <<prefix_name>> ạ"
+  utter_greet2:
+    - text: "Em cũng rất vui khi được gặp <<prefix_name>> ạ"
+  utter_complain1:
+    - text: "Sao <<prefix_name>> lại mắng em thế ạ"
+  utter_complain2:
+    - text: "Em xin lỗi <<prefix_name>> ạ"
+  utter_complain3:
+    - text: "Em nói thật mà"
+  utter_complain4:
+    - text: "Dạ, em đang tập nói ạ"
+  utter_sing:
+    - text: "Em không biết hát đâu <<prefix_name>> ạ"
+  utter_function:
+    - text: "Chào <<prefix_name>>, em có thể báo cáo tài chính, tra cứu giá vàng... ạ"
+  utter_contact1:
+    - text: "Số điện thoại của em là 0 9 8 2 "
+  utter_contact2:
+    - text: "Em có tài khoản facebook tên là MISA ạ"
+  utter_address1:
+    - text: "Em đang sống ở Hà Nội ạ"
+  utter_address2:
+    - text: "Em ở tầng 3 tòa nhà Technosoft"
