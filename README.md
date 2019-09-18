@@ -16,8 +16,8 @@ Cài đặt model spacy fasttext
 - Convert fasttext thành thư viện python và link đến spacy
 
 1. sudo python3 -m spacy init-model vi . --vectors-loc cc.vi.300.vec.gz
-2. sudo python3 -m spacy package vocab vi -m meta.json
-3. sudo python3 setup.py sdist
-4. sudo pip3 install vi_model-0.0.0.tar.gz --no-cache-dir > /dev/null && sudo python3 -m spacy link vi_model vi_fasttext
+2. sudo mkdir vi && sudo python3 -m spacy package vocab vi -m meta.json
+3. cd vi/vi_model-0.0.0 && sudo python3 setup.py sdist
+4. cd dist && sudo pip3 install vi_model-0.0.0.tar.gz --no-cache-dir > /dev/null && sudo python3 -m spacy link vi_model vi_fasttext
 
 ```
