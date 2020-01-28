@@ -1,5 +1,5 @@
 rasa_nlu==0.15.0
-tensorflow==1.14
+tensorflow==1.15.2
 pyvi
 spacy
 underthesea
